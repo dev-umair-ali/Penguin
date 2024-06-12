@@ -335,7 +335,7 @@ input[type="number"] {
 .header .navbar .collapse ul.navbar-nav li.nav-item .dropdown ul #navItemDropTwo ul.dropdown-two {
   position: absolute;
   width: 500px;
-  right: -500px;
+  right: -501px;
   top: 0;
   background: #fff;
   border-left: 2px solid #000;
@@ -382,7 +382,7 @@ input[type="number"] {
 .header .navbar .collapse ul.navbar-nav li.nav-item .dropdown ul #navItemDropSingle ul.dropdown-single {
   position: absolute;
   width: 100%;
-  right: -190px;
+  right: -194px;
   top: 0;
   background: #fff;
   border-left: 2px solid #000;
@@ -3412,10 +3412,11 @@ ul.footer-social-links li a:hover {
   background: #fff;
   padding: 30px 40px;
   border-radius: 10px;
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
   border: 1px solid transparent;
   box-shadow: 0 0 10px rgb(0 0 0 / 18%);
+  margin-left: 120px;
 }
 
 .inner-banner-form h3 {
@@ -5752,6 +5753,7 @@ section.testi-sec-wrap {
   .inner-banner-form {
     width: 85%;
     padding: 30px 20px;
+    margin-left: 0px;
   }
 
   .inner-published-form {
@@ -6328,6 +6330,7 @@ section.testi-sec-wrap {
   .inner-banner-form {
     width: 100%;
     padding: 30px 20px;
+    margin-left: 0px;
   }
 
   .inner-published-form {
@@ -7051,6 +7054,7 @@ section.testi-sec-wrap {
   .inner-banner-form {
     width: 75%;
     padding: 30px 20px;
+    margin-left: 0px;
   }
 
   .inner-published-form {
@@ -7925,6 +7929,7 @@ section.testi-sec-wrap {
   .inner-banner-form {
     width: 100%;
     padding: 30px 20px;
+    margin-left: 0px;
   }
 
   .inner-published-form {
@@ -8940,6 +8945,7 @@ section.testi-sec-wrap {
   .inner-banner-form {
     width: 100%;
     padding: 30px 20px;
+    margin-left: 0px;
   }
 
   .inner-published-form {
